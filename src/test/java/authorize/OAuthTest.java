@@ -1,4 +1,4 @@
-package com.apitesting;
+package authorize;
 
 import static io.restassured.RestAssured.given;
 
