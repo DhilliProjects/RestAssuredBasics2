@@ -1,6 +1,6 @@
 package pojo;
 
-//Serialization and Deserialization
+
 //This is the main class of Courses, which is the main class for WebAutomation, Api, and Mobile.
 public class GetCourse {
 
